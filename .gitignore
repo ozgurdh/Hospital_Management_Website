@@ -391,3 +391,5 @@ publish/
 # Secrets
 appsettings.json
 Web.config
+Web.Debug.config
+Web.Release.config

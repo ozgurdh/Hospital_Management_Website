@@ -30,7 +30,7 @@ This separation ensures:
 
 * **ASP.NET MVC**
 * **C#**
-* ** .NET Framework **
+* **.NET Framework**
 * **HTML / CSS / JavaScript**
 * **Entity Framework** 
 * **SQL Server** 
@@ -42,7 +42,6 @@ This separation ensures:
 Sensitive information such as:
 
 * Database connection strings
-* API keys
 
 are intentionally excluded from this repository for security reasons.
 
