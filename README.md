@@ -1,4 +1,8 @@
-﻿# 🚀 ASP.NET MVC Web Application
+﻿![.NET](https://img.shields.io/badge/.NET-Backend-blue)
+![C#](https://img.shields.io/badge/C%23-Programming-purple)
+![MVC](https://img.shields.io/badge/Architecture-MVC-green)
+
+# 🚀 ASP.NET MVC Web Application
 
 ## 📌 Overview
 
