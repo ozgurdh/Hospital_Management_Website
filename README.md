@@ -89,10 +89,3 @@ Press `F5` or click **Run** in Visual Studio.
 * Managing dependencies and project configuration
 * Writing clean, maintainable, and modular code
 
----
-
-## ⭐ Final Note
-
-This project is part of my continuous effort to improve my software engineering skills and build production-ready applications.
-
-Feel free to explore, fork, and contribute!
