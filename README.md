@@ -30,7 +30,7 @@ This separation ensures:
 
 * **ASP.NET MVC**
 * **C#**
-* **.NET Framework **
+* ** .NET Framework **
 * **HTML / CSS / JavaScript**
 * **Entity Framework** 
 * **SQL Server** 
@@ -53,7 +53,7 @@ are intentionally excluded from this repository for security reasons.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/ozgurdh/Hospital_Management_Website.git
 ```
 
 ### 2. Open the project
